@@ -1,0 +1,1 @@
+Command 'pydocstyle . && pydocstyle src/suleu' returned non-zero exit status 1.

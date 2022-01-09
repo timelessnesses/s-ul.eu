@@ -1,0 +1,1 @@
+Command 'flake8 . && flake8 src/suleu' returned non-zero exit status 1.

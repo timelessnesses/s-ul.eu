@@ -1,0 +1,1 @@
+Command 'mypy . && mypy src/suleu' returned non-zero exit status 2.

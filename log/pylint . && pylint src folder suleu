@@ -1,0 +1,1 @@
+Command 'pylint . && pylint src/suleu' returned non-zero exit status 1.
