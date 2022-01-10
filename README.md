@@ -8,4 +8,4 @@ This module support
 - Convert picture from s-ul.eu to thumbnail or embed for the love of the god that discord don't support 10MB picture.
 - Upload text from clipboard
 - Upload Screenshot from clipboard
-For documentation please visit [here][https://suleu.rukchadisa.live].
+For documentation please visit [here](https://suleu.rukchadisa.live).
