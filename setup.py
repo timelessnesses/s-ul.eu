@@ -10,6 +10,6 @@ setuptools.setup(
     url="https://s-ul.rukchadisa.live",
     packages=["suleu"],
     package_dir={"suleu": "src/suleu"},
-    install_requires=open("requirements.txt").readlines(),
+    install_requires=open("./requirements.txt").readlines(),
     classifiers=[],
 )
