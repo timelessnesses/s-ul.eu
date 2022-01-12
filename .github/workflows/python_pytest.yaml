@@ -40,8 +40,7 @@ jobs:
         python-version: "3.10"
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        if [ -f requirements-dev.txt ]; then pip install -r requirements-dev.txt; fi
+        python -m pip install --upgrade pip s-ul.eu
     - name: Test with pytest
       run: |
         pytest
