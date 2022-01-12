@@ -5,7 +5,7 @@ setuptools.setup(
     version="0.0.2",
     author="Rukchad Wongprayoon",
     author_email="contact@biomooping.tk",
-    description="s-ul.eu API wrapper",
+    description="s-ul.eu API wrapper.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://s-ul.rukchadisa.live",
