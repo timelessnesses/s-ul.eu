@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="s-ul.eu",
-    version="0.0.2",
+    version="0.0.3",
     author="Rukchad Wongprayoon",
     author_email="contact@biomooping.tk",
     description="s-ul.eu API wrapper.",
